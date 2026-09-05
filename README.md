@@ -8,12 +8,20 @@
 * https://leetcode.com/u/dekot0/
 * https://www.hackerrank.com/profile/dionisi787
 
-### Виведення системних команд:
-java version "25.0.4.1" 2026-08-18 LTS
-Java(TM) SE Runtime Environment (build 25.0.4.1+1-LTS-5)
-Java HotSpot(TM) 64-Bit Server VM (build 25.0.4.1+1-LTS-5, mixed mode, sharing)
+### Знімки екрана (Звіт про виконання):
 
-javac 25.0.4.1
+1. **Перевірка версій java, javac та git в терміналі + SSH github:**
+   ![Перевірка версій інструментів + ssh](Git-bash_result.jpg)
 
-git version 2.55.0.windows.5
+2. **Запуск першої програми Hello, World! в IntelliJ IDEA:**
+   ![IntelliJ IDEA](IntelliJ_IDEA.jpg)
+
+3. **Розв'язана задача Welcome to Java! на HackerRank:**
+   ![HackerRank](hackerrank_welcome-to-java!.jpg)
+
+4. **Тестовий запит до ChatGPT:**
+   ![Відповідь ChatGPT на запит](ChatGPT_ready.png)
+
+* Примітка: Доступ до утиліти Claude Code не оформлювався через наявність платного ліміту API.
+* Робота з асистентом протестована через безкоштовну веб-версію Claude у браузері.*
 
